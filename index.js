@@ -1,0 +1,1 @@
+console.log('Essa é a porta de entrada do meu projeto')
